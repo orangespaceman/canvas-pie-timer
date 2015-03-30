@@ -1,0 +1,13 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+#pietimerholder {
+    border : 1px solid #f90;
+    text-align : center;
+    padding : 2em;
+    margin : 2em;
+}
