@@ -1,6 +1,5 @@
 /**
  * This file creates a canvas pie chart that slowly fills over time, before triggering another function
- * @author pete goodman
  */
 
 var canvasPieTimer = {
